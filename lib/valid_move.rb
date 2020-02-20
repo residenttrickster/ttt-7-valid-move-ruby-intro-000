@@ -1,4 +1,4 @@
-def valid_move
+def valid_move?
 end
 
 
@@ -8,4 +8,4 @@ def position_taken (board, index)
   else
     return true
   end
-end 
+end
